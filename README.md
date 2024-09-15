@@ -1,0 +1,2 @@
+# jnetclone
+clone of netflix
